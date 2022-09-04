@@ -1,6 +1,6 @@
 ## local Setup
 
-git - Step 1. composer install
+- Step 1. composer install
 - Step 2. change database info in .env file
 - Step 3. php artisan migrate
 - Step 4. php artisan serve
